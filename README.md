@@ -1,0 +1,2 @@
+# Car-Racing-Game
+I used only simple HTML, CSS, and JavaScript programming code to make this racing car game. I have tried to write these codes as easily and simply as possible so that everyone can understand .This is basically a desktop game that you can play with your computer keyboard. I have given below all the details of how you will play this game. You can follow this instruction to start this car game.
